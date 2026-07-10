@@ -9,7 +9,7 @@ This repo tracks my progress through DataCamp courses as I build foundational an
 ## Structure
 
 ```
-├── notes/          # Course notes and summaries
+├── data/           # Datasets for projects 
 ├── exercises/      # Practice exercises from courses
 ├── projects/       # Mini-projects and case studies
 └── README.md
@@ -22,11 +22,10 @@ This repo tracks my progress through DataCamp courses as I build foundational an
 - [ ] Streamlined Data Ingestion
 - [ ] Introduction to Databases in Python
 - [ ] Building Data Engineering Pipelines
-- [ ] (add more as I go)
 
 ## Progress
 
-Updated as courses are completed. See `notes/` for detailed takeaways per course.
+Updated as courses are completed. 
 
 ## Why This Repo
 
